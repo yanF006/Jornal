@@ -1,0 +1,10 @@
+#mancheteSecundaria {
+    column-count: 2;
+    column-gap: 15px;
+}
+
+#mancheteSecundaria img {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
